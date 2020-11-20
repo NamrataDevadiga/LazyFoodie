@@ -1,0 +1,29 @@
+.aboutTitle {
+    text-align: center;
+}
+
+.aboutHeader {
+    margin-top: 0.1em;
+    font-size: 6vw;
+    float: left;
+}
+
+.rowData {
+    text-align: justify;
+}
+
+.aboutText {
+    border: 1px solid crimson;
+}
+
+.aboutImage {
+    border: 1px solid crimson;
+}
+
+.card-text {
+    font-size: 1.7vw;
+}
+
+.color-text{
+    color: crimson;
+}

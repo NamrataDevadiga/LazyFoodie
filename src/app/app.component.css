@@ -1,0 +1,28 @@
+
+.navigation {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: large;
+    background-color: whitesmoke;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+.navigation a {
+    padding-left: 7em;
+    padding-right: 7em;
+    padding-top: 3em;
+}
+
+.navigation a:link, a:visited{
+    text-decoration: none;
+    color: crimson;
+    font-weight:bold
+}
+
+.navigation a:hover {
+    color: #662900;
+    text-decoration: none;
+    font-weight:bold
+}
+

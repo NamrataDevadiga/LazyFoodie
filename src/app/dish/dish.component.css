@@ -1,0 +1,25 @@
+.left {
+    margin-top: 1em;
+    padding-left: 2em;
+}
+
+.right {
+    margin-top: 1em;
+    text-align: center;
+}
+
+.gkhHeader{
+    text-align: center;
+    font-size: 3.3vw;
+    color: crimson;
+}
+
+.desc{
+    text-align: justify;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.descheader{
+    color: crimson;
+}

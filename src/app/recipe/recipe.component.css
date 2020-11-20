@@ -1,0 +1,40 @@
+img {
+    width: 100%;
+    opacity: 0.9;
+}
+
+.recipecontainer {
+    text-align: center;
+    width: 100%;
+}
+
+.recipe-title {
+    font-size: 5vw;
+    margin-top: -10px;
+    margin-bottom: 0px;
+}
+
+.recipe-text{
+    margin-top: 0px;
+    margin-bottom: 1em;
+}
+
+.card-body {
+    text-align: center;
+    border-top: none;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+
+.card a:link, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.card a:hover {
+    color:crimson;
+}
+
+.card a:hover img {
+   opacity: 1;
+}

@@ -1,0 +1,55 @@
+.dessertsHeaderRow{
+    text-align: center;
+}
+
+.dessertsHeader {
+    font-size: 4vw;
+    margin-top: 0.2em;
+    margin-bottom: 0px;
+}
+
+.dessertText {
+    font-size: 2vw;
+    margin-top: 0px;
+    color: crimson;
+}
+
+.dessertitem {
+    overflow: hidden;
+    border: 1px solid lightgray;
+}
+
+.item {
+    width: 100%;
+    margin-left: 0px;
+}
+
+.left {
+    padding-left: 0px;
+}
+
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 6em;
+    height: 6em;
+    border-right: 1px solid lightgray;
+}
+
+.card-title{
+    margin-bottom: 0px;
+}
+
+.dessertitem a:link, a:active, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.dessertitem a:hover {
+    color: crimson;
+    opacity: 0.8;
+}
